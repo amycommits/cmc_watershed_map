@@ -16,7 +16,7 @@
     "*.{js,vue}": "eslint"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "bootstrap-vue": "^2.0.0",
     "bootstrap": "^4.1.3",
     "@nuxtjs/axios": "^5.3.6",
